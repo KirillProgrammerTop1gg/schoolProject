@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/schprj/static/css/main.e50de06d.css",
-    "main.js": "/schprj/static/js/main.e9b9eab3.js",
+    "main.js": "/schprj/static/js/main.6c3bea66.js",
     "index.html": "/schprj/index.html",
     "main.e50de06d.css.map": "/schprj/static/css/main.e50de06d.css.map",
-    "main.e9b9eab3.js.map": "/schprj/static/js/main.e9b9eab3.js.map"
+    "main.6c3bea66.js.map": "/schprj/static/js/main.6c3bea66.js.map"
   },
   "entrypoints": [
     "static/css/main.e50de06d.css",
-    "static/js/main.e9b9eab3.js"
+    "static/js/main.6c3bea66.js"
   ]
 }
