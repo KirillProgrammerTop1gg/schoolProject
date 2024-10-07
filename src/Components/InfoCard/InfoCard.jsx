@@ -4,7 +4,7 @@ const Container = styled.li`
     display: flex;
     gap: 200px;
     justify-content: space-between;
-    height: 400px;
+    height: 250px;
 `;
 const Card = styled.div`
     border-radius: 10px;

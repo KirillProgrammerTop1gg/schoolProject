@@ -14,7 +14,7 @@ const Circles = styled.ul`
 `;
 
 export default ({ infos }) => <>
-    <Title data-aos="zoom-in">Основна інформація про Луку:</Title>
+    <Title data-aos="zoom-in">Основна інформація про Гектора:</Title>
     <Circles>
         {infos.map((info, idx) => <BaseCircle id={idx} text={info} />)}
     </Circles>
